@@ -1,4 +1,4 @@
-# link-in-bio
+# links
 
 <p>
   I'm going to make webpage for links to all my social media accounts using HTML, CSS, JavaScript
