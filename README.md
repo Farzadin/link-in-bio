@@ -1,7 +1,7 @@
 # link-in-bio
 
 <p>
-  I'm going to make webpage for links to all my social media accounts using Html, Css, JavaScript
+  I'm going to make webpage for links to all my social media accounts using Html, CSS, JavaScript
 </p>
 
 Here, We are going to code along with Takuya Matsuyama aka [craftzdog](https://github.com/craftzdog).
